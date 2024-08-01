@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dwayne.
 - 👀 I’m interested in linux, coding, photography and mtb.
-- 🌱 I’m currently learning Java and C++.
+- 🌱 I’m currently learning Java, C++ and full stack web development.
 - 💞️ I’m looking to collaborate on nothing really, I make my own projects.
 - 📫 How to reach me dwaynecrous207@gmail.com.
 
