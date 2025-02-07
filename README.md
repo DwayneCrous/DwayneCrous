@@ -9,6 +9,7 @@
 # 📊 GitHub Stats:
 
 ![DwayneCrous's Stats](https://github-readme-stats.vercel.app/api?username=DwayneCrous&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+
 ![DwayneCrous's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DwayneCrous&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
 
 ---
