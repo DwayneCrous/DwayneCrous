@@ -8,9 +8,8 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=DwayneCrous&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DwayneCrous&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DwayneCrous&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![DwayneCrous's Stats](https://github-readme-stats.vercel.app/api?username=DwayneCrous&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+![DwayneCrous's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DwayneCrous&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
