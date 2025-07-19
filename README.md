@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DwayneCrous](https://github.com/DwayneCrous)
 
-- 📫 How to reach me **dwaynerheeder@proton.me**
+- 📫 How to reach me **dwaynerheeder@proton.me** or **dwaynecrous206@gmail.com**
 
 - ⚡ Fun fact **I like Mountain Biking**
 
