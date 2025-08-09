@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dwayne</h1>
 <h3 align="center">An aspiring developer from South Africa</h3>
 
-- 🔭 I’m currently working on [Orion](https://github.com/DwayneCrous/Orion)
+- 🔭 I’m currently working on [Go-Do-it](https://github.com/DwayneCrous/Orion)
 
-- 👨‍💻 All of my projects are available at [https://github.com/DwayneCrous](https://github.com/DwayneCrous)
+- 👨‍💻 All of my projects are available at [https://github.com/DwayneCrous](https://github.com/go-do-it)
 
 - 📫 How to reach me **dwaynerheeder@proton.me** or **dwaynecrous206@gmail.com**
 
