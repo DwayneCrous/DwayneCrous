@@ -4,7 +4,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on [Go-Do-it](https://github.com/DwayneCrous/go-do-it)
 - 👨‍💻 All of my projects are available at [https://github.com/DwayneCrous](https://github.com/DwayneCrous)
-- 📫 How to reach me **dwaynerheeder@proton.me** or **dwaynecrous206@gmail.com**
+- 📫 How to reach me **dwaynecrous206@gmail.com**
 - ⚡ Fun fact **I like Mountain Biking**
 
 # 💻 Things I've used before:
