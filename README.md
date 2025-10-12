@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dwayne</h1>
-<h3 align="center">An aspiring developer from South Africa</h3>
+<h3 align="center">A software/web developer from South Africa</h3>
 
 # 💫 About Me:
 - 🔭 I’m currently working on [Go-Do-it](https://github.com/DwayneCrous/go-do-it)
