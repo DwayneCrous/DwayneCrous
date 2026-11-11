@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="#c0caf5" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" viewBox="0 0 840 460" width="840" height="460" role="img" aria-label="Terminal showing Dwayne's profile: software and web developer from South Africa, building Cultivar">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7aa2f7"/>
+      <stop offset="1" stop-color="#bb9af7"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font: 15px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #c0caf5; }
+    .k { fill: #7aa2f7; }
+    .dim { fill: #565f89; }
+    .ok { fill: #9ece6a; }
+    .hot { fill: #bb9af7; font-weight: 700; }
+
+    /* Base state is the finished frame; animations only play "from" it, so
+       static renderers and reduced-motion viewers still see everything. */
+    .type { transform: translateX(140px); animation: type 1s steps(12) .4s backwards; }
+    .draw { stroke-dasharray: 1; animation: draw 1.1s ease-in-out backwards; }
+    .l { animation: rise .45s ease-out backwards; }
+    .cur { animation: blink 1.1s steps(1) infinite; }
+
+    .d0 { animation-delay: 1.5s } .d1 { animation-delay: 1.8s }
+    .d2 { animation-delay: 1.9s } .d3 { animation-delay: 2.0s }
+    .d4 { animation-delay: 2.1s } .d5 { animation-delay: 2.2s }
+    .d6 { animation-delay: 2.3s } .d7 { animation-delay: 2.4s }
+    .d8 { animation-delay: 2.5s } .d9 { animation-delay: 2.6s }
+    .d10 { animation-delay: 2.7s } .d11 { animation-delay: 2.8s }
+    .d12 { animation-delay: 2.95s } .d13 { animation-delay: 3.4s }
+
+    @keyframes type { from { transform: translateX(0) } }
+    @keyframes draw { from { stroke-dashoffset: 1 } }
+    @keyframes rise { from { opacity: 0; transform: translateY(6px) } }
+    @keyframes blink { 50% { opacity: 0 } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important } }
+  </style>
+
+  <!-- window -->
+  <rect width="840" height="460" rx="12" fill="#1a1b26"/>
+  <rect width="840" height="40" rx="12" fill="#16161e"/>
+  <rect y="28" width="840" height="12" fill="#16161e"/>
+  <circle cx="24" cy="20" r="6" fill="#f7768e"/>
+  <circle cx="44" cy="20" r="6" fill="#e0af68"/>
+  <circle cx="64" cy="20" r="6" fill="#9ece6a"/>
+  <text x="420" y="25" text-anchor="middle" class="dim" fill="#565f89">dwayne@github: ~</text>
+
+  <!-- typed command: a background-coloured cover slides off in steps -->
+  <text x="40" y="82"><tspan class="ok" fill="#9ece6a">$</tspan> fetch --me</text>
+  <rect class="type" transform="translate(140 0)" x="36" y="64" width="140" height="26" fill="#1a1b26"/>
+
+  <!-- DC monogram, drawn on -->
+  <g fill="none" stroke="url(#g)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path class="draw d0" pathLength="1" d="M50 165h25a70 70 0 0 1 0 140h-25z"/>
+    <path class="draw d1" pathLength="1" d="M288.6 190A70 70 0 1 0 288.6 280"/>
+  </g>
+
+  <!-- info -->
+  <text class="l d1" x="340" y="130"><tspan class="hot" fill="#bb9af7" font-weight="700">dwayne</tspan><tspan class="dim" fill="#565f89">@</tspan><tspan class="hot" fill="#bb9af7" font-weight="700">github</tspan></text>
+  <text class="l d2 dim" fill="#565f89" x="340" y="154">─────────────</text>
+  <text class="l d3" x="340" y="178"><tspan class="k" fill="#7aa2f7">role</tspan><tspan x="440">software / web developer</tspan></text>
+  <text class="l d4" x="340" y="202"><tspan class="k" fill="#7aa2f7">location</tspan><tspan x="440">South Africa</tspan></text>
+  <text class="l d5" x="340" y="226"><tspan class="k" fill="#7aa2f7">building</tspan><tspan x="440">Cultivar</tspan></text>
+  <text class="l d6" x="340" y="250"><tspan class="k" fill="#7aa2f7">langs</tspan><tspan x="440">TypeScript · Rust · Python</tspan></text>
+  <text class="l d7" x="340" y="274"><tspan class="k" fill="#7aa2f7">web</tspan><tspan x="440">Next · SvelteKit · Astro · React</tspan></text>
+  <text class="l d8" x="340" y="298"><tspan class="k" fill="#7aa2f7">mobile</tspan><tspan x="440">Expo</tspan></text>
+  <text class="l d9" x="340" y="322"><tspan class="k" fill="#7aa2f7">data</tspan><tspan x="440">Supabase · Postgres</tspan></text>
+  <text class="l d10" x="340" y="346"><tspan class="k" fill="#7aa2f7">ship</tspan><tspan x="440">Vercel · Bun · Vite</tspan></text>
+  <text class="l d11" x="340" y="370"><tspan class="k" fill="#7aa2f7">contact</tspan><tspan x="440">dwaynecrous206@gmail.com</tspan></text>
+
+  <!-- palette -->
+  <g class="l d12">
+    <rect x="340" y="388" width="24" height="14" fill="#f7768e"/>
+    <rect x="364" y="388" width="24" height="14" fill="#ff9e64"/>
+    <rect x="388" y="388" width="24" height="14" fill="#e0af68"/>
+    <rect x="412" y="388" width="24" height="14" fill="#9ece6a"/>
+    <rect x="436" y="388" width="24" height="14" fill="#7dcfff"/>
+    <rect x="460" y="388" width="24" height="14" fill="#7aa2f7"/>
+    <rect x="484" y="388" width="24" height="14" fill="#bb9af7"/>
+    <rect x="508" y="388" width="24" height="14" fill="#c0caf5"/>
+  </g>
+
+  <!-- waiting prompt -->
+  <g class="l d13">
+    <text x="40" y="436" class="ok" fill="#9ece6a">$</text>
+    <rect class="cur" x="60" y="422" width="9" height="18" fill="#c0caf5"/>
+  </g>
+</svg>
